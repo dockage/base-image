@@ -1,4 +1,4 @@
-NAME?=dockerzone/debian-base-image
+NAME?=dockage/base-image
 VERSION=
 DEBUG?=false
 APT_CACHER_SERVER?=
